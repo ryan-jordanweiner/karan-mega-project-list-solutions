@@ -1,0 +1,1 @@
+The goal is to use the projects listed on https://github.com/karan/Projects to get better with c++ java and python, and I will possibly be adding more langauges down the line in an attempt to learn more.
